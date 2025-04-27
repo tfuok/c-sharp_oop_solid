@@ -1,0 +1,83 @@
+[
+  {
+    "Loai": "DienTu",
+    "MaSanPham": 1,
+    "TenSanPham": "may tinh",
+    "GiaGoc": 1500,
+    "ThueBaoHanh": 100,
+    "PhiVanChuyen": null,
+    "GiamGia": null
+  },
+  {
+    "Loai": "ThoiTrang",
+    "MaSanPham": 2,
+    "TenSanPham": "ao khoac kaki",
+    "GiaGoc": 300,
+    "ThueBaoHanh": null,
+    "PhiVanChuyen": null,
+    "GiamGia": 50
+  },
+  {
+    "Loai": "ThucPham",
+    "MaSanPham": 3,
+    "TenSanPham": "hop sua tuoi",
+    "GiaGoc": 40,
+    "ThueBaoHanh": null,
+    "PhiVanChuyen": 5,
+    "GiamGia": null
+  },
+  {
+    "Loai": "DienTu",
+    "MaSanPham": 4,
+    "TenSanPham": "smartwatch",
+    "GiaGoc": 1200,
+    "ThueBaoHanh": 90,
+    "PhiVanChuyen": null,
+    "GiamGia": null
+  },
+  {
+    "Loai": "ThucPham",
+    "MaSanPham": 6,
+    "TenSanPham": "banh quy bo",
+    "GiaGoc": 65,
+    "ThueBaoHanh": null,
+    "PhiVanChuyen": 8,
+    "GiamGia": null
+  },
+  {
+    "Loai": "DienTu",
+    "MaSanPham": 7,
+    "TenSanPham": "loa bluetooth",
+    "GiaGoc": 850,
+    "ThueBaoHanh": 60,
+    "PhiVanChuyen": null,
+    "GiamGia": null
+  },
+  {
+    "Loai": "ThoiTrang",
+    "MaSanPham": 8,
+    "TenSanPham": "vay dam du tiec",
+    "GiaGoc": 400,
+    "ThueBaoHanh": null,
+    "PhiVanChuyen": null,
+    "GiamGia": 60
+  },
+  {
+    "Loai": "ThucPham",
+    "MaSanPham": 9,
+    "TenSanPham": "ca hop",
+    "GiaGoc": 90,
+    "ThueBaoHanh": null,
+    "PhiVanChuyen": 6,
+    "GiamGia": null
+  },
+  {
+    "Loai": "DienTu",
+    "MaSanPham": 10,
+    "TenSanPham": "tai nghe khong day",
+    "GiaGoc": 950,
+    "ThueBaoHanh": 70,
+    "PhiVanChuyen": null,
+    "GiamGia": null
+  }
+]
