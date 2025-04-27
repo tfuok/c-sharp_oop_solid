@@ -1,15 +1,9 @@
 🚀 Overview
 This project simulates a simple sales system using:
-
-A menu so users can pick and buy products
-
-Polymorphism to handle different types of products like a boss
-
-Solid OOP principles: SOLID, Interfaces, Abstraction, Inheritance, and more coding magic ✨
-
+ - A menu so users can pick and buy products
+ - Polymorphism to handle different types of products like a boss
+ - Solid OOP principles: SOLID, Interfaces, Abstraction, Inheritance, and more coding magic ✨
 🛠 Tech Stack
-C#
-
-.NET (either .NET Core or .NET Framework depending on your setup)
-
-Git for version control
+ - C#
+ - .NET 
+ - Git for version control
